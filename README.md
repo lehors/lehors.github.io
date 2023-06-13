@@ -1,7 +1,3 @@
----
-permalink: index.html
----
 # lehors.github.io
 
-Last modified: {{ page.last_modified_at }}  
-URL: {{page.url}}
+This is a simple site to test GitHub Pages.
