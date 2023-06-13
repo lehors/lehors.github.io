@@ -1,6 +1,7 @@
 ---
+title: My README
 ---
 # lehors.github.io
 
-Date: {{page.date}}
+Date: {{page.date}}  
 URL: {{page.url}}
