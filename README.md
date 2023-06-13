@@ -2,5 +2,5 @@
 ---
 # lehors.github.io
 
-{{page.date}}
-{{page.url}}
+Date: {{page.date}}
+URL: {{page.url}}
