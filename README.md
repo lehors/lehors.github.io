@@ -1,5 +1,4 @@
 ---
-title: My README
 ---
 # lehors.github.io
 
