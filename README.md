@@ -3,5 +3,5 @@ permalink: index.html
 ---
 # lehors.github.io
 
-Date: {{page.date}}  
+Last modified: {{ page.last_modified_at }}  
 URL: {{page.url}}
